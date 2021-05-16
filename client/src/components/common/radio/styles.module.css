@@ -1,0 +1,125 @@
+:root {
+  --radio-cr: #3871cc;
+  --label-cr: #2f3b4e;
+}
+
+@keyframes rippleOn {
+  0% {
+    opacity: 0.5;
+    transform: scale(0.3, 0.3);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.5, 1.5);
+  }
+}
+
+@keyframes rippleOff {
+  0% {
+    opacity: 0.5;
+    transform: scale(0.3, 0.3);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.5, 1.5);
+  }
+}
+
+.row {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.radio__container {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  display: inline-block;
+}
+
+.radio__input {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 33px;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.radio__view {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.radio__input:hover {
+  background-color: rgba(25, 118, 210, 0.04);
+}
+
+.radio__circle {
+  width: 22px;
+  height: 22px;
+  border-radius: 33px;
+  border: 2px solid var(--radio-cr);
+  position: relative;
+}
+
+.radio__circle:after {
+  content: "";
+  position: absolute;
+  opacity: 0;
+  left: 3px;
+  top: 3px;
+  width: 12px;
+  height: 12px;
+  color: inherit;
+  background: var(--radio-cr);
+  border-radius: 20px;
+  transition: opacity 100ms ease-in-out;
+}
+
+/* .radio__input:checked ~ .radio__circle:after {
+    opacity: 1;
+  } */
+
+.radio__label {
+  font-size: 18px;
+  color: var(--primary);
+  cursor: pointer;
+}
+
+.radio__animator {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 50%;
+  background: inherit;
+  background-color: rgba(25, 118, 210, 0.3);
+  opacity: 0;
+}
+
+.radio__input:checked ~ .radio__view .radio__circle:after {
+  opacity: 1;
+}
+
+.radio__input:checked ~ .radio__animator {
+  animation: rippleOn 500ms forwards ease-out;
+}
+
+.label {
+  display: block;
+  font-size: 1.6rem;
+  color: var(--label-cr);
+  font-weight: 600;
+  margin-bottom: 9px;
+}

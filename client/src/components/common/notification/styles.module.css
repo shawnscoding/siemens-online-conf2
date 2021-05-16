@@ -1,0 +1,88 @@
+@keyframes down {
+  from {
+    top: -500px;
+  }
+  to {
+    top: 0;
+  }
+}
+
+.login-box {
+  width: 460px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 500;
+  background: white;
+  animation-name: down;
+  border: 1px solid #92929285;
+  border-radius: 5px;
+  animation-duration: 1s;
+}
+
+.schedule-header {
+  position: relative;
+  padding: 3rem 0 1.5rem;
+}
+
+.schedule-header h2 {
+  color: #2e315d;
+  font-size: 3rem;
+  line-height: 2rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.schedule-header .mg-txt {
+  padding: 15px 40px;
+  line-height: 20px;
+  color: #222;
+  font-weight: 400;
+  text-align: center;
+}
+
+.schedule-header .mg-txt span {
+  display: block;
+  font-size: 2rem;
+  line-height: 2rem;
+}
+
+.schedule-header button.close {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  top: 3rem;
+  left: -3rem;
+  border-radius: 50%;
+  box-shadow: 0.3rem 0.2rem 0.7rem 0 rgba(0, 0, 0, 0.2);
+  font-size: 0;
+  cursor: pointer;
+  background: white;
+}
+
+.close-img {
+  width: 30px;
+  height: 30px;
+}
+
+.btn-hall {
+  position: relative;
+  padding: 0rem 4rem 2rem;
+  text-align: center;
+}
+
+.btn-hall button {
+  display: block;
+  width: 100%;
+  padding: 1.5rem 3rem;
+  color: #fff;
+  font-size: 1.6rem;
+  text-align: center;
+  font-weight: 600;
+  background: #2e315d;
+  border-radius: 5px;
+  line-height: 1;
+  cursor: pointer;
+}

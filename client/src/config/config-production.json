@@ -1,0 +1,5 @@
+{
+    "apiBaseUrl": "https://uia.mwnetworks.co.kr:3001",
+    "websocketServer": "wss://ws.salin.co.kr",
+    "domain": "http://localhost:7000"
+}
