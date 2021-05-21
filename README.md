@@ -49,7 +49,7 @@ While we always allow access to this website, we have closed most of its feature
 
 # Project Description
 
-This web application was used for the Online Conference held by [Siemens](https://www.siemens.com/global/en.html), A multinational corporation headquartered in Munich, Germany.
+This platform was used for the online seminar and exhibition held by [Siemens](https://www.siemens.com/global/en.html), A multinational corporation headquartered in Munich, Germany.
 
 - Development period: 2021.02 ~ 2021.04
 - Maintenance period: 2021.02 ~ 2021.05
