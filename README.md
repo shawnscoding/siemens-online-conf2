@@ -1,4 +1,4 @@
-# Siemens online Conference
+# Siemens online seminar & exhibition
 
 [![assets/website_url.gif](assets/website_url.gif)](https://siemens-evavconference.govent.io/)
 
