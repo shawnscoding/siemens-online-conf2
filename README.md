@@ -103,7 +103,7 @@ After the project, we have won five more projects from them.
 
 I was able to understand what are the important jobs for project leader. As a leader, regardless of what your speciality is, you will end up spending a lot of time talking to clients and project members. This includes reviewing the software requirements specification, communicate with team members and other departments to find out if there is an issue in the process. I needed to speak in non-programming terms and suggest an alternative if there's a technical issue. I didn't realise how massive responsibility a leader has. Although all of the responsibilities I had was overwhelming at the beginning, my productivity and collaboration skill gradually increased. I highly believe that I learned and grew up significantly from this experience.
 
-### 3. The CEO offered me a double salary increase with respect for your dedication.
+### 3. The CEO offered me a double salary increase with respect for my dedication.
 
 # Some of the biggest projects I've worked on are listed below.
 
