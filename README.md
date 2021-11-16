@@ -1,4 +1,4 @@
-# Siemens online seminar & exhibition
+# Siemens Online Seminar & Exhibition
 
 [![assets/website_url.gif](assets/website_url.gif)](https://siemens-evavconference.govent.io/)
 
@@ -96,11 +96,24 @@ This platform was used for the online seminar and exhibition held by [Siemens](h
 
 # Achievement
 
-### 1. Because the project ended very successfully, We have earned their trust and concluded additional contracts with them.
+### 1. We have earned their trust.
+After the project, we have won five more projects from them.
 
-### 2. I learned how to lead a project while working on this project.
+### 2. I learned how to lead a project.
 
 I was able to understand what are the important jobs for project leader. As a leader, regardless of what your speciality is, you will end up spending a lot of time talking to clients and project members. This includes reviewing the software requirements specification, communicate with team members and other departments to find out if there is an issue in the process. I needed to speak in non-programming terms and suggest an alternative if there's a technical issue. I didn't realise how massive responsibility a leader has. Although all of the responsibilities I had was overwhelming at the beginning, my productivity and collaboration skill gradually increased. I highly believe that I learned and grew up significantly from this experience.
+
+### 3. The CEO offered me a double salary increase with respect for your dedication.
+
+# Some of the biggest projects I've worked on are listed below.
+
+
+- [IOHA2021 International Scientific Conference](https://ioha2021conference.org/)
+- [Unesco International 3D Online Conference](https://iclc2021.govent.io/)
+- [Simens Online Conference & Exhibition](https://siemens-evavconference.govent.io) 
+- [KHA Online Conference & Exhibition](https://khc2020.salin.co.kr) ( Korean Hospital Association )
+- Asia TEFL International 3D Online Conference
+
 
 
 # Note
