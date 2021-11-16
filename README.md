@@ -101,7 +101,7 @@ After the project, we have won five more projects from them.
 
 ### 2. I learned how to lead a project.
 
-I was able to understand what are the important jobs for project leader. As a leader, regardless of what your speciality is, you will end up spending a lot of time talking to clients and project members. This includes reviewing the software requirements specification, communicate with team members and other departments to find out if there is an issue in the process. I needed to speak in non-programming terms and suggest an alternative if there's a technical issue. I didn't realise how massive responsibility a leader has. Although all of the responsibilities I had was overwhelming at the beginning, my productivity and collaboration skill gradually increased. I highly believe that I learned and grew up significantly from this experience.
+I was able to understand what a project manager or leader really does. As a leader, I needed to spend a lot of time on communication. This includes reviewing the software requirements specification, speaking to team members and other departments to find out if there is an issue in the process. I needed to speak in non-programming terms and suggest an alternative if there's a technical issue. I didn't realise how massive responsibility a leader has. Although all of the responsibilities I had was overwhelming initially, my productivity and collaboration skill gradually increased, and I learned how to take a responsibility and do multitask. Moreover, I gained tremendous confidence and I'm really proud of myself.
 
 ### 3. The CEO offered me a double salary increase with respect for my dedication.
 
