@@ -14,24 +14,24 @@
 
 # Role & Responsibility
 
-My responsibility was developing front-end and back-end. Collaborating with management, departments, and customers to identify end-user requirements and specifications. Testing and deploying applications. Troubleshooting, debugging, maintaining and improving existing software.
+My responsibility was developing the application as a full-stack developer. Collaborating with management, departments, and clients as a project manager.
 
 ### My responsibilities in this project include:
 
 - System Design
-- Talk to clients and project manager and review a project proposal
-- Build Admin pages and APIs in Nextjs
 - Build RESTful APIs in Expressjs
-- Create SQL statements
+- Admistrate MySQLDB
+- AWS Infrastructure Management 
 - Create React components (tables, banners, poppers, Modals, buttons and so on)
+- Build Admin pages and APIs in Nextjs
 - Email, SMS and push notification automation
 - Back-up and SQL statement automation using Crontab in Linux
-- User Authentication
-- Schedule VOD and Live Streaming
+- VOD and Live Streaming
 - Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
 - Responsive Design (Supports mobile devices)
 - Data Statistics
 - Gitlab Administration
+- Collaborate with the clients and review a project proposal
 
 # Application Work Flow
 
@@ -52,7 +52,7 @@ While we always allow access to this website, we have closed most of its feature
 This platform was used for the online seminar and exhibition held by [Siemens](https://www.siemens.com/global/en.html), A multinational corporation headquartered in Munich, Germany.
 
 - Development period: 2021.02 ~ 2021.04
-- Maintenance period: 2021.02 ~ 2021.05
+- Maintenance period: 2021.02 ~ 2021.11
 - Logged users per day: 2,000 ~ 3,000
 - Accessed in: 5 countries
 - Accessed by: Desktop, Mobile device, Laptop, Tablet
@@ -100,7 +100,8 @@ This platform was used for the online seminar and exhibition held by [Siemens](h
 
 ### 2. I learned how to lead a project while working on this project.
 
-I was able to understand what's the important jobs for project leader. As a leader, regardless of what your speciality is, you will end up spending a lot of time talking to clients and project members. This includes reviewing the client's requirement, communicate with team members and other departments to find out if there is an issue in the process. For me, every time our project manager added new functionality of the software to the proposal, I had to think through whether this is feasible and could be done by the deadline. If there's a technical issue with the requirement, I had to explain the issue in non-programming terms and suggest an alternative. I didn't realise how massive responsibility a leader has before the beginning of the project. Although all of the responsibilities I was required to have was overwhelming at the beginning, my productivity and collaboration skill gradually increased. I highly believe that I learned and grew significantly from this experience.
+I was able to understand what are the important jobs for project leader. As a leader, regardless of what your speciality is, you will end up spending a lot of time talking to clients and project members. This includes reviewing the software requirements specification, communicate with team members and other departments to find out if there is an issue in the process. I needed to speak in non-programming terms and suggest an alternative if there's a technical issue. I didn't realise how massive responsibility a leader has. Although all of the responsibilities I had was overwhelming at the beginning, my productivity and collaboration skill gradually increased. I highly believe that I learned and grew up significantly from this experience.
+
 
 # Note
 
