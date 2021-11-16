@@ -105,7 +105,7 @@ I was able to understand what a project manager or leader really does. As a lead
 
 ### 3. The CEO offered me a double salary increase with respect for my dedication.
 
-# Some of the biggest projects I've worked on are listed below.
+# Some of the biggest projects I've worked on
 
 
 - [IOHA2021 International Scientific Conference](https://ioha2021conference.org/)
