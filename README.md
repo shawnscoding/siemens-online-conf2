@@ -64,7 +64,7 @@ This platform was used for the online seminar and exhibition held by [Siemens](h
 
 ![booth.gif](assets/booth.gif)
 
-### Networking
+### Social Networking
 
 ![assets/text_chat.gif](assets/text_chat.gif)
 
